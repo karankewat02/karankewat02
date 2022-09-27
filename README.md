@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,React js**
 
-- 👨‍💻 All of my projects are available at [http://karankewat.xyz/](http://karankewat.xyz/)
+- 👨‍💻 All of my projects are available at [http://karankewat.com/](http://karankewat.com/)
 
 - 💬 Ask me about **CSS**
 
